@@ -20,7 +20,7 @@ costomize the t-shirts in as follows.
 We deliver if you email us your address and t-shirt you desire.
 All of our t-shirts are shown on facebook.All other questions can be answerd
 on my facebook page.
-(just search =spiral studios)
+(just search =)
 
 **!warning if alergic to cats wash before use!**
 **refunds are possible before 20 days after the purchase.**
