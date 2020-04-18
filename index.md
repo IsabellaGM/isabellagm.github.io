@@ -13,3 +13,10 @@ costomize the t-shirts in as follows
 - Colours
 - Patterns
 - Type (for eaxample:, bag, t-shirt, etc.)
+
+### contact me!
+**email:isabellagarciamier@gmail.com**
+
+
+**!warning if alergic to cats wash before use!**
+
