@@ -1,17 +1,11 @@
-## Welcome to Isabella's Web Page!
+# Welcome to Isabella's Web Page!
 
 Let's say we are typing some words here.
 
-You can use the [editor on GitHub](https://github.com/IsabellaGM/isabellagm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## this is a spiral studios website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### what we do
+we create cotton t-shirts hand made.
 
 # Header 1
 ## Header 2
