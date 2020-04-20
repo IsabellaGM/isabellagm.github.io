@@ -1,20 +1,20 @@
-# Welcome to Isabella's Web Page!
+# _Welcome to Isabella's Web Page!_
 
 
 
-## this is a spiral studios website!
+## _this is a spiral studios website!_
 
 ### _What we do_
 We create hand made cotton t-shirts. The t-shirts 
 are clean, iorned and are in good condition. You can
 costomize the t-shirts in as follows.
 
-### Requirements:
+### _compromizeation:_
 - Colours
 - Patterns
 - Type (for eaxample:, bag, t-shirt, etc.)
 
-### contact me!
+### _contact me!_
 **email:isabellagarciamier@gmail.com**
 
 We deliver if you email us your address and t-shirt you desire.
